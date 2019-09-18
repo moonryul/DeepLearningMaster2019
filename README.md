@@ -1,3 +1,6 @@
+## This repository corresponds to the 2018/2019 Master Course. If you are looking for the 2019/2020 course, go to https://github.com/DataScienceUB/DeepLearningMaster20192020
+
+
 <div align="left">
         <img width="25%" src="images/deeplearninginside2.png" alt="About screen" title="About screen"</img>
 </div>
