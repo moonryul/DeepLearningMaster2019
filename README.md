@@ -1,11 +1,7 @@
 ## This is an outdated repository corresponding to the 2018/2019 UB MSc Course. If you are looking for the 2019/2020 course, go to https://github.com/DataScienceUB/DeepLearningMaster20192020
 
-<div class="myWrapper" markdown="1">
-# my markdown content
 
-this content is wrapped into a div with class "myWrapper"
-</div>
-
+<p style="text-align: center;">Centered text</p>
 
 <div align="left">
         <img width="25%" src="images/deeplearninginside2.png" alt="About screen" title="About screen"</img>
