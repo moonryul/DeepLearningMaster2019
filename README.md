@@ -1,12 +1,12 @@
 
 
 <p align="center">
-### This is an outdated repository corresponding to the 2018/2019 UB MSc Course. If you are looking for the 2019/2020 course, go to https://github.com/DataScienceUB/DeepLearningMaster20192020
+This is an outdated repository corresponding to the 2018/2019 UB MSc Course. If you are looking for the 2019/2020 course, go to https://github.com/DataScienceUB/DeepLearningMaster20192020
 </p>
 
-<div align="left">
+<p align="center">
         <img width="25%" src="images/deeplearninginside2.png" alt="About screen" title="About screen"</img>
-</div>
+</p>
 
 ## DeepLearningMaster Repository
 
